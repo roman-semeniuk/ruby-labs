@@ -1,0 +1,10 @@
+.ruby-lsp/
+
+.bundle/
+vendor/bundle/
+
+*.gem
+*.log
+
+.DS_Store
+Thumbs.db
